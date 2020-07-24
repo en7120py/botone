@@ -7,3 +7,8 @@ pytelegrambotapi
 pymongo
 pandas
 flask
+
+
+How to run:
+install Docker Desktop
+install MongoDb
